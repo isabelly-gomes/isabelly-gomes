@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="34">
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="34">
   <text
     x="0"
     y="24"
     fill="#7C3AED"
     font-family="Georgia, 'Times New Roman', serif"
-    font-size="21"
+    font-size="20"
     font-weight="700"
-  >From experience to what's next.</text>
+  >From experience to what's next</text>
+
+  <text
+    x="355"
+    y="23"
+    font-size="17"
+  >🚀</text>
 </svg>
